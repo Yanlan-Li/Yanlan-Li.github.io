@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+gitment:
+  enable: true
+  githubID: yourid
+  repo: yourrepo
+  ClientID: 52c7a69b886b4a3c08a5
+  ClientSecret: 2fcc4fa2e284329e7b9cc184b6acdab98ce54294
+  lazy: true
